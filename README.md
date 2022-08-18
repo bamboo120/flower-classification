@@ -1,2 +1,2 @@
 # flower-classification
-classify the flower depends on the picture of flower
+classify the flowers depends on the picture of flower
