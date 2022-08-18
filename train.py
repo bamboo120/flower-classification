@@ -72,7 +72,7 @@ def validation(model, validloader, criterion):
 
 learning_rate = 0.001
 hidden_units = 4096
-epochs = 9
+epochs = 10
 print_every = 40
 steps = 0
 running_loss = 0 
