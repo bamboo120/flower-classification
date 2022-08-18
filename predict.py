@@ -36,7 +36,7 @@ model = torch.load(checkpoint)['model']
 
 model.cuda()
 
-def process_image(image ):
+def process_image(image):
     ''' Scales, crops, and normalizes a PIL image for a PyTorch model,
         returns an Numpy array
     '''
